@@ -38,7 +38,7 @@ function local_read_args() {
   fi
 }
 
-BRANCH="master"
+BRANCH="dev"
 PRINT_USAGE=0
 SKIP_SETUP=false
 SKIP_PULL=false
@@ -50,7 +50,7 @@ PREDIX_SCRIPTS=predix-scripts
 REPO_NAME=predix-rmd-ref-app
 VERSION_JSON="version.json"
 APP_DIR="rmd-ref-app"
-APP_NAME="RMD Asset Monitoring Reference App"
+APP_NAME="Predictive Maintenance Demo App"
 SCRIPT_NAME=quickstart-rmd-ref-app.sh
 TOOLS="Cloud Foundry CLI, Git, Java JDK, Maven, Node.js, Predix CLI"
 TOOLS_SWITCHES="--cf --git --jdk --maven --nodejs --predixcli"
