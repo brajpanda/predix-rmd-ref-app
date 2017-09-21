@@ -38,7 +38,7 @@ function local_read_args() {
   fi
 }
 
-BRANCH="dev"
+BRANCH="master"
 PRINT_USAGE=0
 SKIP_SETUP=false
 SKIP_PULL=false
