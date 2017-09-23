@@ -12,7 +12,7 @@
     "predix-webapp-starter": "https://github.com/brajpanda/predix-webapp-starter#2.0.2",
     "predix-websocket-server": "https://github.com/PredixDev/predix-websocket-server#2.1.23",
     "rmd-datasource": "https://github.com/PredixDev/rmd-datasource#2.0.31",
-    "predix-rmd-ref-app": "https://github.com/PredixDev/predix-rmd-ref-app#2.0.178"
+    "predix-rmd-ref-app": "https://github.com/brajpanda/predix-rmd-ref-app#2.0.178"
   },
   "author": "brajpanda"
 }
