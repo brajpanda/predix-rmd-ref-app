@@ -16,7 +16,7 @@
 	branch = master
 [submodule "predix-webapp-starter"]
 	path = predix-webapp-starter
-	url = https://github.com/PredixDev/predix-webapp-starter.git
+	url = https://github.com/brajpanda/predix-webapp-starter.git
 	branch = master
 [submodule "predix-websocket-server"]
 	path = predix-websocket-server

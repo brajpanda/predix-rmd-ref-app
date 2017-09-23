@@ -9,7 +9,7 @@
 	url = http://github.com/PredixDev/rmd-datasource.git
 [submodule "predix-webapp-starter"]
 	path = predix-webapp-starter
-	url = http://github.com/PredixDev/predix-webapp-starter.git
+	url = http://github.com/brajpanda/predix-webapp-starter.git
 [submodule "predix-websocket-server"]
 	path = predix-websocket-server
 	url = http://github.com/PredixDev/predix-websocket-server.git
