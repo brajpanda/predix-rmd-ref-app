@@ -57,7 +57,7 @@ TOOLS_SWITCHES="--cf --git --jdk --maven --nodejs --predixcli"
 
 local_read_args $@
 IZON_SH="https://raw.githubusercontent.com/PredixDev/izon/$BRANCH/izon.sh"
-VERSION_JSON_URL=https://raw.githubusercontent.com/PredixDev/predix-rmd-ref-app/$BRANCH/version.json
+VERSION_JSON_URL=https://raw.githubusercontent.com/brajpanda/predix-rmd-ref-app/$BRANCH/version.json
 
 function check_internet() {
   set +e
